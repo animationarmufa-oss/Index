@@ -1,6 +1,6 @@
 export const KEYS = {
   pakasir: {
-    project: "ARMUFA STORE",
+    project: "armufa-store",
     apiKey: "c7ZaITXiSjqYlhMV37bQLnTQslBbAoO2",
     baseUrl: "https://app.pakasir.com/api",
   },

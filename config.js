@@ -12,7 +12,7 @@ export const CURRENCY = "IDR";
 // Link (opsional)
 export const LINKS = {
   // Jika mau aman, kosongkan dan kembalikan link via endpoint server setelah pembayaran.
-  resellerGroupFallback: "https://t.me/+dA8elHyzEGw5MTE1", // contoh: "https://chat.whatsapp.com/XXXXX"
+  resellerGroupFallback: "", // contoh: "https://chat.whatsapp.com/XXXXX"
 };
 
 // Produk & harga (edit bebas)
